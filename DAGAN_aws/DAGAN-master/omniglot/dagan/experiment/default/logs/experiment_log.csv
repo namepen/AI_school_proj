@@ -1,0 +1,1 @@
+epoch,total_d_train_loss_mean,total_d_val_loss_mean,total_d_train_loss_std,total_d_val_loss_std,total_g_train_loss_mean,total_g_val_loss_mean,total_g_train_loss_std,total_g_val_loss_std
