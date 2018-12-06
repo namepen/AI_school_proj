@@ -1,5 +1,7 @@
 # 2018 AI shool 최종 프로젝트 
 
+프로젝트 소개 홈페이지 : https://readymag.com/u53026007/1140897/
+
 GAN을 이용한 Colony image generation code
   - 학습용 sample image는 일부만 upload
 
