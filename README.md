@@ -1,0 +1,1 @@
+# AI_shool_proj
